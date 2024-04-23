@@ -8,10 +8,15 @@ platforms:
 dependencies:
   - python ~=3.11.7
 
+  - netcdf4
+  - numpy
   - pre-commit
   - pystac
   - rasterio
   - shapely
+  - pathlib
+  - xarray
+  - xstac
 
   # jupyter environment
   - jupyter
