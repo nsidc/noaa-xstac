@@ -8,6 +8,7 @@ platforms:
 dependencies:
   - python ~=3.11.7
 
+  - earthpy
   - netcdf4
   - numpy
   - pre-commit
