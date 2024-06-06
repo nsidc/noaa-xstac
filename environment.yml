@@ -10,6 +10,7 @@ dependencies:
 
   - click
   - earthpy
+  - h5netcdf
   - netcdf4
   - numpy
   - pandas
