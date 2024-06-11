@@ -8,6 +8,7 @@ platforms:
 dependencies:
   - python ~=3.11.7
 
+  - adlfs
   - click
   - earthpy
   - h5netcdf
